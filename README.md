@@ -1,2 +1,2 @@
 # BitrixHF
-complete project with crud
+complete project with bitrix and laravel
